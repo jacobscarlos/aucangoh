@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohkahgha.bogaert.co/sitemap.xml
